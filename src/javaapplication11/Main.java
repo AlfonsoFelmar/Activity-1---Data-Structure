@@ -87,7 +87,8 @@ public class Main {
        }
         
        else {
-            i = 2; 
+            System.out.println("Reading is hard?");
+            continue;
        }
              
     }
